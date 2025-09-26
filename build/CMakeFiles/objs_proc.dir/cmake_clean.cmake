@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/objs_proc.dir/proc/echoall.c.o"
+  "CMakeFiles/objs_proc.dir/proc/echoall.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/exec1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/exec1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/exec2.c.o"
+  "CMakeFiles/objs_proc.dir/proc/exec2.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/fork1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/fork1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/fork2.c.o"
+  "CMakeFiles/objs_proc.dir/proc/fork2.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/nice.c.o"
+  "CMakeFiles/objs_proc.dir/proc/nice.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/pracct.c.o"
+  "CMakeFiles/objs_proc.dir/proc/pracct.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/pruids.c.o"
+  "CMakeFiles/objs_proc.dir/proc/pruids.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/system.c.o"
+  "CMakeFiles/objs_proc.dir/proc/system.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/systest1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/systest1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/systest3.c.o"
+  "CMakeFiles/objs_proc.dir/proc/systest3.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/tellwait1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/tellwait1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/tellwait2.c.o"
+  "CMakeFiles/objs_proc.dir/proc/tellwait2.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/test1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/test1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/times1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/times1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/vfork1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/vfork1.c.o.d"
+  "CMakeFiles/objs_proc.dir/proc/wait1.c.o"
+  "CMakeFiles/objs_proc.dir/proc/wait1.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/objs_proc.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

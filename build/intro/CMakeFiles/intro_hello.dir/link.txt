@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/intro_hello.dir/hello.c.o -o intro_hello  ../lib/libapue.a -lm 
